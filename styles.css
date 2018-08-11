@@ -1,0 +1,6 @@
+.ContactForm-message {
+     padding: .5rem;
+     font-size: .85rem;
+     background-color: var(--color-main);
+     color: var(--bg-color-main);
+}
